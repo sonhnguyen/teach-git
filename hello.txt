@@ -1,3 +1,4 @@
 dang o branch master
 123
+some other code on the master
 my new code
